@@ -1,0 +1,8 @@
+.registration-form {
+  width: 50%;
+  margin: auto;
+}
+
+.registration-form > div {
+  margin-bottom: 10px;
+}

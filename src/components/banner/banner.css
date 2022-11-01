@@ -1,0 +1,9 @@
+.banner {
+  width: 98vw;
+  height: 70vh;
+  background-color: green;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
